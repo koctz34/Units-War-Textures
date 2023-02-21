@@ -1,0 +1,9 @@
+{
+  "name": "units-war"
+  "displayName": "Units War"
+  "author": koctz34
+  "description": "Replaces the textures of units from Mindustry."
+  "version": "1.0"
+  "minGameVersion": "136"
+  "hidden": "true"  
+}
